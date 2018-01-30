@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - rupee
+  - stalfo
+  - heart
+  - key
+  - sword
+  - arrow
+  - closeddoor_right
+  - closeddoor_left
+  - BladeTrap
+  - Bomb
+  - boomerang
+  - gel
+  - Goriya
+  - Wallmaster
+  - Aquamentus
+  - Keese
+  - fireball
+  - block
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - wallmaster
+  - weapon
+  - player
+  - enermy
+  - keese
+  - boomrang
+  - stone
+  - river
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 1671337929
+    locked: 0
+  - name: Wall
+    uniqueID: 3290754785
+    locked: 0
+  - name: Dragon
+    uniqueID: 964203973
+    locked: 0

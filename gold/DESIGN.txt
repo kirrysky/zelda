@@ -1,0 +1,10 @@
+1. Our custom level focuses on water and how to cross water.
+Red water: lose 3 heart- die. Green water: lose 1 heart. Yellow: randomly heal 0.5-2 hearts or lose 0.5-2 hearts. Blue water: can't step in.
+Wallmaster: now it is your friend to help you fly over water to avoid harm.
+2. First room: Player needs to push boxes to a certain place to active the bridge, and know what yellow water does. This room gives player a knowledge of the basic dynamic of the game.
+3. Second room: Player needs to let the wallmaster catch him and drop in certain place to fly over the water.
+4. Third room: Player has two choices: one he can go over the green and yellow water directly to see his fortune, or cross water by wallmaster and fight with stalfos. Player needs to make a trade off here.
+5. Forth room: Player need to push four boxes into certain place to active the bridge and get the key, while he needs to avoid step into the colorful water.
+6. Last room: Victory!
+
+Our custom level game makes users to think how to use boxes, wallmaster and colorful water to finish the task, there is trade off and multiple choices for some rooms that make the game more interesting.
